@@ -36,6 +36,8 @@ h2 {
     transition: background-color .2s;
 }
 
+.btn:focus {outline: 0;}
+
 .btn:hover {
     background-color: #c86823;
 }
