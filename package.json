@@ -4,8 +4,10 @@
   "private": true,
   "dependencies": {
     "express": "^4.15.3",
+    "lodash": "^4.17.4",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "youtube-api-search": "0.0.5"
   },
   "devDependencies": {
     "react-scripts": "1.0.5"
